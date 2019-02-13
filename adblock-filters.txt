@@ -5,3 +5,5 @@ fart-it.sourceforge.net##img
 @@||https://r1.res.office365.com/owalanding/v2.10/landing.js
 @@||http://www.teamfortress.com/classless/hidden/advertisement/Productive_Member_Of_Society.css
 @@||http://www.teamfortress.com/classless/hidden/advertisement/Productive_Member_Of_Society.jpg
+@@||https://s.marktplaats.com/static-web/my-account/js/MyAds.*
+@@||https://s.marktplaats.com/static-web/my-account/css/MyAds.*
