@@ -8,3 +8,4 @@ fart-it.sourceforge.net##img
 @@||https://s.marktplaats.com/static-web/my-account/js/MyAds.*
 @@||https://s.marktplaats.com/static-web/my-account/css/MyAds.*
 @@||https://api.marktplaats.nl/messagebox/v1/my-conversations?*
+@@||https://api.marktplaats.nl/messagebox/v1/my-conversations/*
