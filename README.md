@@ -1,3 +1,3 @@
 # Adblock filters
 
-Simple adblock filters to fix up anything I come across.
+Simple adblock filters to fix up any problematic sites I come across.
