@@ -7,3 +7,4 @@ fart-it.sourceforge.net##img
 @@||https://s.marktplaats.com/static-web/my-account/css/MyAds.*
 @@||https://api.marktplaats.nl/messagebox/v1/my-conversations?*
 @@||https://api.marktplaats.nl/messagebox/v1/my-conversations/*
+@@||https://hsreplay.net/analytics/query/*
